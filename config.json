@@ -3,15 +3,14 @@
     "notiGroup": true,
     "MAINTENANCE": false,
     "allowInbox": false,
-    "BOTNAME": " cti vcl ",
-    "AMDIN_NAME": "Vtuan",
-    "keyRent": "Vtuan",
-    "FACEBOOK_ADMIN": "https://www.facebook.com/Vtuan.dev",
-    "PREFIX": "\"",
-    "box_admin": "25051623374452223",
+    "BOTNAME": " Tuấn Ank ",
+    "AMDIN_NAME": "Tuấn Ank",
+    "keyRent": "tuanank",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/anhyeuemnhamlun",
+    "PREFIX": ".",
+    "box_admin": "",
     "ADMINBOT": [
-        "509484270",
-        "100073763480585"
+        "61555625227297"
     ],
     "NDH": [],
     "FCAOption": {
